@@ -1,0 +1,92 @@
+
+body {
+    
+    color: white;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: "Radiance","Noto Sans",sans-serif;
+    
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:active{
+    color: blue;
+}
+a:visited{
+    color: grey  ;
+}
+.pk {
+    width: 200px;
+    border-radius: 15%;
+}
+/* .test h1 {
+    margin: 15px;
+    font-weight: bold;
+}  */
+.vse {
+    width: auto;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    
+
+}
+/* .box  div {
+    float: left;
+    background-color: black;
+    height: 300px;
+    width: 25%;
+    box-sizing: border-box;
+} */
+/* .pers {
+    color: #333333;
+    margin: 15px;
+    font-weight: bold;
+} */
+.card h3 {
+    color: rgba(255, 140, 0);
+}
+.card p {
+    font-size: 125%;
+    font-weight: bold;
+} 
+/* .cl-grey { */
+    /* background-color:#808080 ; */
+    
+    /* border-radius: 20%; */
+    
+/* } */
+.card {
+    padding: 15px 20px;
+    background:#86898f;
+    margin-bottom: 20px;
+}
+body {
+    background-color: #727979;
+    
+    box-sizing: border-box;
+}
+.info {
+    background-color: #86898f;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    font-size: 125%;
+    font-weight: bold;
+}
+
+.tte:hover  .vve{
+    display: block;
+} 
+.vve {
+    height: 200px;
+    width: 250px;
+    display: none;
+}
+.vve video {
+    width: 100%;
+}
